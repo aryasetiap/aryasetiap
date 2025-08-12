@@ -30,23 +30,6 @@
 
 ---
 
-### 💡 What Drives Me
-
-🚀 Transforming ideas into impactful products  
-🤖 Solving problems with AI & automation  
-🌱 Continuously learning new technologies  
-
----
-
-### 🔍 Currently Diving Into
-
-Advanced React & TailwindCSS  
-API development with Express.js & NestJS  
-Machine Learning (Python, TensorFlow, scikit-learn)  
-MLOps & Model Deployment  
-
----
-
 ### 🤝 Let's Build Something Amazing Together!
 
 <div align="center">
@@ -60,7 +43,7 @@ MLOps & Model Deployment
 Full-stack development projects  
 Machine learning collaborations  
 Open source contributions  
-Mentorship opportunities  
+Mentorship opportunities
 
 </div>
 
@@ -152,7 +135,7 @@ Mentorship opportunities
 🌱 **Learning:** MLOps, model deployment, and cloud integration (AWS, Docker)  
 👯 **Open to collaborate on:** Full stack, AI/ML, and automation projects  
 💬 **Ask me about:** React, Node.js, Python ML, API design, or web architecture  
-⚡ **Fun fact:** Every bug is a hidden feature waiting to be discovered! 🚀☕  
+⚡ **Fun fact:** Every bug is a hidden feature waiting to be discovered! 🚀☕
 
 ## 🌐 Connect with Me
 
