@@ -38,19 +38,6 @@
 
 [![Let's Connect](https://img.shields.io/badge/Let's%20Connect-2E9EF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryasetiap/)
 
-**🎯 Looking for:**
-
-Full-stack development projects  
-Machine learning collaborations  
-Open source contributions  
-Mentorship opportunities
-
-</div>
-
-<br>
-
-> _Fun fact: I believe every bug is a hidden feature waiting to be discovered!_ 🚀☕
-
 </div>
 
 ## 🛠️ Tech Stack
@@ -108,7 +95,7 @@ Mentorship opportunities
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryasetiap&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryasetiap&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryasetiap&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=aryasetiap&theme=radical&hide_border=true)
 
 </div>
 
@@ -127,15 +114,6 @@ Mentorship opportunities
 [![Arya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryasetiap&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-## 🎯 Current Focus
-
-🔭 **Building:** Scalable full stack web applications with React, Next.js, Node.js, and NestJS  
-🤖 **Exploring:** Machine learning workflows using Python, TensorFlow, and scikit-learn  
-🌱 **Learning:** MLOps, model deployment, and cloud integration (AWS, Docker)  
-👯 **Open to collaborate on:** Full stack, AI/ML, and automation projects  
-💬 **Ask me about:** React, Node.js, Python ML, API design, or web architecture  
-⚡ **Fun fact:** Every bug is a hidden feature waiting to be discovered! 🚀☕
 
 ## 🌐 Connect with Me
 
