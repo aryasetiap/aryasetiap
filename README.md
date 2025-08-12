@@ -115,8 +115,6 @@
 
 </div>
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/aryasetiap/aryasetiap/output/snake.svg)
